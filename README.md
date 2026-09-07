@@ -58,4 +58,4 @@ curl "https://api.fda.gov/device/enforcement.json?limit=100&skip=200"
 
 Want it as ready-to-use rows instead of raw paging? The [FDA Recalls Scraper](https://apify.com/ponderable_hydrometer/fda-recalls-scraper) on Apify wraps these endpoints — drug/device/food, class and status filters in, structured output out.
 
-📄 Narrative walkthrough on dev.to: **[FDA Recalls Have a Free JSON API](https://dev.to/ronin13/fda-recalls-have-a-free-json-api-every-drug-device-and-food-recall-without-scraping)**
+📄 Narrative walkthrough on dev.to: **[FDA Recalls Have a Free JSON API](https://dev.to/ronin13/fda-recalls-have-a-free-json-api-every-drug-device-and-food-recall-without-scraping-4mn9)**
